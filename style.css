@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff0f5;
+  margin: 2em;
+}
+
+p {
+  color: #444;
+  font-size: 1rem;
+}
+
+span {
+  color: #ff1493;
+  font-weight: bold;
+}
+
+.apresentacao {
+  margin-bottom: 2em;
+  height: 40vh;
+}
+
+.caixa {
+  border: 2px solid #d63384;
+  padding: 1em;
+  margin-top: 1em;
+  background-color: #ffe6f0;
+  border-radius: 8px;
+  width: 80%;
+}
+
+.hobbies-section {
+  height: 40vh;
+}
+
+.hobbies {
+  display: flex;
+  gap: 1em;
+  margin-top: 1em;
+}
+
+.hobby {
+  border: 1px solid #ff69b4;
+  padding: 1em;
+  border-radius: 6px;
+  background-color: #ffcce0;
+  font-size: 1rem;
+  width: 20%;
+  text-align: center;
+}
